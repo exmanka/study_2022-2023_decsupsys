@@ -1,2 +1,3 @@
-# DecisionSupportSystems
-Labs
+# Лабораторные работы по СППР
+Лабораторные работы выполнены студентами группы НФИбд-01-20: Ким Михаилом Алексеевичем и Кузнецовым Юрием Владимировичем.  
+[Ссылка](https://docs.google.com/spreadsheets/d/1wsGhzfdXU58f1etg0n1PJM7kOVC1OVrc4z2sd91iGho/edit?usp=sharing) на собранный нами датасет.
